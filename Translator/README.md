@@ -1,4 +1,4 @@
-TRANSLATOR
+# TRANSLATOR
 
 The translator web-application using Microsoft Azure translates from Russian into the selected language and synthesizes text into speech
 
