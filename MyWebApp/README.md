@@ -14,11 +14,10 @@ What was used:
 
     HTML files
     
-@app.route('/login/', methods=['POST', 'GET'])
-def login():
+![image](https://user-images.githubusercontent.com/90320655/146948108-e2f011c4-ee82-416d-ac89-3d80aa34f64d.png)
 
-@app.route('/registration/', methods=['POST', 'GET'])
-def registration():
+![image](https://user-images.githubusercontent.com/90320655/146948171-5fb53925-2157-413e-8fd4-cc69829ca498.png)
+
 
 Resalt my work
 
