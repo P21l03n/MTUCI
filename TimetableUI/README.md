@@ -8,18 +8,28 @@ Python Packages were used: psycopg2, PyQt5
 
 What was used:
            class MainWindow(QWidget):
+           
                 def __init__(self):
+                
                 def _connect_to_db(self):
+                
                 def _create_timetable_tab(self):
+                
                 def _create_table(self, table_gbox):
+                
                 def _update_table(self, table_gbox):
+                
                 def _change_day_from_table(self, button):
+                
                 def _insert_row_table(self):
+                
                 def _del_row_table(self, button):
+                
                 def _create_teacher_tab(self): 
+                
                 def _create_subjects_tab(self):
+                
                 def _update_timetable(self):
-
 
 Resalt my work
 
