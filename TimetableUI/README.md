@@ -7,6 +7,7 @@ Python version: Python 3.9
 Python Packages were used: psycopg2, PyQt5
 
 What was used:
+
            class MainWindow(QWidget):
            
                 def __init__(self):
