@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Registration</title>
+</head>
+<body>
+    <form action="" method="post">
+      <p>
+    <label for="name">Your name:</label>
+	{%if name or first_time%}
+    	<input type="text" name="name" value={{name}}>
+	{%else%}
+		  <input type="text" name="name" >
+		  <p style="color:#8B0000"> Enter your name </p>
+	{%endif%}
+     </p>
+        <p>
+	    <label for="login">Login:</label>
+
+		{%if login or first_time%}
+	    <input type="text" name="login" value={{login}}>
+		{%else%}
+			<input type="text" name="login">
+			<p style="color:#8B0000"> Enter your login</p>
+		{%endif%}
+		</p>
+	<p>
+	    <label for="password">Password:</label>
+		{%if password or first_time%}
+	    <input type="password" name="password" value={{password}}>
+		{%else%}
+			<input type="text" name="password">
+			<p style="color:#8B0000"> Enter your password</p>
+		{%endif%}
+	</p>
+	<p>
+	    <input type="submit" value="Sign In">
+	</p>
+    </form>
+
+{%if not Len%}
+	<p style="color:#8B0000"> Password must be at least 4 characters long</p>
+{%endif%}
+</body>
+</html>
