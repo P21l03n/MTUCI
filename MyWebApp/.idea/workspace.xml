@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6da43f98-97c0-4d81-8e3b-69eea2ffcb5c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/registration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="6044792f-1c07-4fef-bfa9-73b159e74e37" />
+  <component name="ProjectId" id="1zjC4p3XCyWKXdJyEmzyA5ukdwH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PycharmProjects/flaskProject4" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Полина\PycharmProjects" />
+      <recent name="C:\Users\Полина\PycharmProjects\MyWebApp" />
+      <recent name="C:\Users\Полина\MyWebApp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flask server.Flask">
+    <configuration name="app.py" type="PythonConfigurationType" factoryName="Python">
+      <module name="MyWebApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask" type="Python.FlaskServer" nameIsGenerated="true">
+      <module name="MyWebApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Полина\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flask server.Flask" />
+      <item itemvalue="Python.app.py" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6da43f98-97c0-4d81-8e3b-69eea2ffcb5c" name="Default Changelist" comment="" />
+      <created>1634651921264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634651921264</updated>
+      <workItem from="1634651922327" duration="1619000" />
+      <workItem from="1634653715534" duration="319000" />
+      <workItem from="1634654966789" duration="3524000" />
+      <workItem from="1634661663947" duration="2244000" />
+      <workItem from="1634738689198" duration="1365000" />
+      <workItem from="1634762770218" duration="994000" />
+      <workItem from="1634827561610" duration="4898000" />
+      <workItem from="1634836995044" duration="977000" />
+      <workItem from="1634837996582" duration="1735000" />
+      <workItem from="1634896101991" duration="4648000" />
+      <workItem from="1635331286324" duration="8128000" />
+      <workItem from="1635500427502" duration="7824000" />
+      <workItem from="1635860458105" duration="7963000" />
+      <workItem from="1635934044336" duration="1527000" />
+    </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <created>1635360488320</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635360488320</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1634829277603">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1634829277603" />
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1635360487574">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1635360487574" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1634916192705">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1634916192705" />
+    <state x="515" y="239" key="Github.ShareDialog" timestamp="1634916081869">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="515" y="239" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1634916081869" />
+    <state x="355" y="46" key="Github.UntrackedFilesDialog" timestamp="1634916089009">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="355" y="46" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1634916089009" />
+    <state width="1237" height="143" key="GridCell.Tab.0.bottom" timestamp="1635889903113">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="143" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1635889903113" />
+    <state width="1237" height="143" key="GridCell.Tab.0.center" timestamp="1635889903113">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="143" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1635889903113" />
+    <state width="1237" height="143" key="GridCell.Tab.0.left" timestamp="1635889903113">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="143" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1635889903113" />
+    <state width="1237" height="143" key="GridCell.Tab.0.right" timestamp="1635889903113">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="143" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1635889903113" />
+    <state width="198" height="457" key="HiddenNamespacesPopup" timestamp="1634841756089">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="198" height="457" key="HiddenNamespacesPopup/0.0.1280.680@0.0.1280.680" timestamp="1634841756089" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1635360491192">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1635360491192" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MyWebApp$main.coverage" NAME="app.py Coverage Results" MODIFIED="1634662204188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyWebApp$Flask.coverage" NAME="Flask Coverage Results" MODIFIED="1635934059844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
