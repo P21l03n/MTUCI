@@ -1,9 +1,5 @@
 # MyWebApp
 
-Unfortunately, the files of this lab were lost by me, so I suggest you follow this link to another repository that I created earlier and see my work.
-
-https://github.com/P21l03n/MyWebApp.git
-
 A web application with the ability to register and switch to another page when entering your data. All user data is entered in the sql table.
 
 Python version: Python 3.9
